@@ -1,0 +1,93 @@
+body {
+    background-color: gray;
+}
+
+.menu {
+    background-color: blue;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 40px;
+    width: 100%;
+}
+
+.nav-item {
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+h2{
+    color: darkblue;
+}
+h3{
+    color: darkblue;
+}
+
+
+
+
+.header {
+    background-color: white ;
+    height: 80px;
+    margin-top: 60px;
+    
+}
+
+
+    
+.content {
+    background-color: white;
+    color: black;
+    height: 400px;
+    margin-top: 20px;
+}
+
+.hero {
+    background-color: white;
+    color: black;
+    height: 900px;
+    margin-top: 20px;
+
+}
+
+.form {
+    background-color: white;
+    color: black;
+    height: 450px;
+    margin-top: 20px;
+}
+
+.contact {
+    background-color: white;
+    color: black;
+    height: 250px;
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: darkblue;
+    color: white;
+    height: 70px;
+    width: 100%;
+    margin-top: 60px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer-text {
+    margin-top: 20px;
+}
+
+
+
+
+    
+
+
+
+    
+    
+    
